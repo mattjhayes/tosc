@@ -1,2 +1,2 @@
 # tosc
-Time Operating System Commands
+Time Operating System Commands (tosc)
